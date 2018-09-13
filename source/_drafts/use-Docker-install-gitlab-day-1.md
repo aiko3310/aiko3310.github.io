@@ -33,7 +33,7 @@ docker + gitlab + gitlab-ci 的介紹及教學
 
 就像這樣
 
-![21](use-Docker-install-gitlab-day-1/docker-01.jpg)  
+![docker-01](/images/docker-install-gitlab/docker-01.jpg)  
 
 沒辦法複製貼上，學習上會很痛苦，我自己覺得跟著圖片打完多多少少還是會有一些收穫，
 
