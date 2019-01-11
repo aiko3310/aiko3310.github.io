@@ -229,8 +229,8 @@ sidebar:
 # If you want to use gitment,you should get the client_id and client_secret form https://github.com/settings/applications/new
 # If you want to use valine,you should get the app_id and app_key form https://leancloud.cn ,more setting please see https://github.com/xCss/Valine
 comment:
-    use:
-    shortname: # duoshuo or disqus shortname
+    use: disqus
+    shortname: 4n-blog
     changyan_appid:
     changyan_conf:
     changyan_thread_key_type: path
@@ -253,15 +253,15 @@ search:
 # Available value:
 #     baidu | google | cnzz
 analytics:
-    google_site_id:
+    google_site_id: UA-132332226-1
     baidu_site_id:
     cnzz_site_id:
 
 # Leancloud Views
 leancloud:
-    enable: false
-    app_id: #你的 app_id
-    app_key: #你的 app_key
+    enable: true
+    app_id: yr9e8RApIVByMYnjkb8k8wlJ-gzGzoHsz
+    app_key: vQKPdiPKjmK8N52g1DY84rSE
     av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
 
 # Busuanzi 不蒜子 Views
