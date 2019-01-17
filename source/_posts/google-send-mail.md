@@ -23,7 +23,7 @@ tags: javascript, google
 
 ![google-send-mail](/images/google-send-mail/06.jpg)
 
-裡面會長這樣，在寫這篇文章的時間目前只有支援 ES5 的寫法，注意這邊 function 名稱要用 doGet，google 會去執行這個 function (這邊我不確定，不過我自己使用 doGet 才會過)
+裡面會長這樣，在寫這篇文章的時間目前只有支援 ES5 的寫法，注意這邊 function 名稱要用 doGet，google 會去執行這個 function
 
 ![google-send-mail](/images/google-send-mail/07.jpg)
 
